@@ -7,7 +7,7 @@ The code in this repository applies an ordinary least-squares (OLS) regression t
 
 ## How to use it
 
-The best way to use this script is by making a [PythonAnywhere](https://www.pythonanywhere.com/) account (free), and letting the script execute at your desired frequency. Make sure to replace the folder name (username) in the script and create a .env file with your credentials for Alpaca and Discord. If you want to switch from paper trading to real trading, just set (PAPER = False) and make sure your Alpaca account is funded.
+The best way to use this script is by making a [PythonAnywhere](https://www.pythonanywhere.com/) account (free), and letting the script execute at your desired frequency. The time at which you choose to execute the script should be chosen to be within NYSE's trading hours (9:30 AM – 4:00 PM Eastern time). Make sure to replace the folder name (username) in the script and create a .env file with your credentials for Alpaca and Discord. If you want to switch from paper trading to real trading, just set (PAPER = False) and make sure your Alpaca account is funded.
 
 ## Disclaimer
 
